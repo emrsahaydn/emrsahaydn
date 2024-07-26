@@ -2,7 +2,7 @@
 #### Data Science and AI
 ![Data Science and AI](https://i.imgur.com/cgXyDla.jpeg)
 
-Hello everyone, I am interested in artificial intelligence and science.
+Hello everyone, I am interested in artificial intelligence and data science.
 
 Skills: PYTHON/C#/HTML/CSS
 
