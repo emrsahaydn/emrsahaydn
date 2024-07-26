@@ -1,4 +1,4 @@
-### Hi there 👋, Emir Sahin Aydin
+### Emir Sahin Aydin
 #### Data Science and AI
 ![Data Science and AI](https://i.imgur.com/cgXyDla.jpeg)
 
@@ -6,7 +6,6 @@ Hello everyone, I am interested in artificial intelligence and science.
 
 Skills: PYTHON/C#/HTML/CSS
 
-- 🔭 I’m currently working on Data science and AI 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrsahaydn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emrshnaydn)  
