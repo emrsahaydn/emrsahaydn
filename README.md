@@ -1,6 +1,6 @@
 ### Emir Sahin Aydin
 #### Data Science and AI
-![Data Science and AI](https://i.imgur.com/cgXyDla.jpeg)
+![Data Science and AI](https://imgur.com/CqTFNNX)
 
 Hello everyone, I am interested in artificial intelligence and data science.
 
