@@ -4,7 +4,7 @@
 
 Hello everyone, I am interested in artificial intelligence and data science.
 
-Skills: PYTHON/C#/HTML/CSS
+Skills: PYTHON/HTML/CSS
 
 
 
